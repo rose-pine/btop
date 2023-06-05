@@ -30,16 +30,15 @@
 
 - Main
 
-![image](https://github.com/rose-pine/tmux/assets/121260905/3b29156c-6499-4d8f-a845-3fc276b1347f)
+![image](https://github.com/mrs4ndman/btop/assets/121260905/8ab89e33-3e8a-4f34-b935-639bbc1e8140)
 
 - Moon
 
-![image](https://github.com/rose-pine/tmux/assets/121260905/9df20bca-0f0c-49fa-a678-141ffd50e8dd)
+![image](https://github.com/mrs4ndman/btop/assets/121260905/b264670e-30d1-44e7-9d60-3c9737a5f659)
 
 - Dawn 
 
-![image](https://github.com/rose-pine/tmux/assets/121260905/991a6c42-1a00-4143-92d8-f7d23ede6375)
-
+![image](https://github.com/mrs4ndman/btop/assets/121260905/e5b5c583-b1cf-4994-ac31-8bf55ce5d0ce)
 
 
 ## Thanks to
