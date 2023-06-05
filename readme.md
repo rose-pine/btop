@@ -30,15 +30,15 @@
 
 - Main
 
-![image](https://github.com/mrs4ndman/btop/assets/121260905/8ab89e33-3e8a-4f34-b935-639bbc1e8140)
+![image](https://github.com/mrs4ndman/btop/assets/121260905/4542e8d3-1b7c-4d72-bdb0-b6dfdc4ebbb2)
 
 - Moon
 
-![image](https://github.com/mrs4ndman/btop/assets/121260905/b264670e-30d1-44e7-9d60-3c9737a5f659)
+![image](https://github.com/mrs4ndman/btop/assets/121260905/7701491f-35c7-49be-a744-e30396873e8e)
 
 - Dawn 
 
-![image](https://github.com/mrs4ndman/btop/assets/121260905/e5b5c583-b1cf-4994-ac31-8bf55ce5d0ce)
+![image](https://github.com/mrs4ndman/btop/assets/121260905/4ce0d12f-7e7a-4499-ab0b-1b928d000bff)
 
 
 ## Thanks to
