@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for Btop</h2>
+    <h2 align="center">Rosé Pine for btop</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -23,7 +23,7 @@
 
 4. Configure your favourite variant as your colour theme
 
-> Options are 'rose-pine-main', 'rose-pine-moon' or 'rose-pine-dawn'
+> Options are 'rose-pine', 'rose-pine-moon' or 'rose-pine-dawn'
 
 
 ## Gallery
